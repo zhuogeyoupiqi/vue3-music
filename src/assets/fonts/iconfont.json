@@ -1,0 +1,37 @@
+{
+  "id": "4018136",
+  "name": "vie3-music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-music-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1029",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2742660",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "6307855",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "11391497",
+      "name": "电台",
+      "font_class": "diantai",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}

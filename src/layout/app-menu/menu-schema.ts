@@ -1,0 +1,30 @@
+
+import type { Menus} from './interface'
+
+export const meuns:Menus[] = [
+  {
+    name: '在线音乐',
+    menus: [
+      {
+        name: '推荐',
+        key: 'recommend',
+        icon: 'icon-music-tuijian'
+      },
+      {
+        name: '音乐馆',
+        key: 'music_hall',
+        icon: 'icon-music-yinle'
+      },
+      {
+        name: '视频',
+        key: 'video',
+        icon: 'icon-music-shipin'
+      },
+      {
+        name: '电台',
+        key: 'radio',
+        icon: 'icon-music-diantai'
+      }
+    ]
+  }
+]

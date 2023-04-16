@@ -7,7 +7,7 @@
         class="menu-item"
         :class="currentKey === meunItem.key ? 'active' : 'unactive'"
         v-for="meunItem in menu.menus" @click="changeMenu(meunItem)">
-        <i :class="`icon iconfont ${meunItem.icon}}`"></i>
+        <i :class="`icon iconfont ${meunItem.icon}`"></i>
         <span>{{ meunItem.name }}</span>
       </div>
     </div>

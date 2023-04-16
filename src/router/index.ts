@@ -17,8 +17,7 @@ const router = createRouter({
           path: 'recommend',
           name: 'recommend',
           meta: { name: 'recommend', display: '推荐' },
-          component: () => import('@/views/example/developed/developed.vue')
-          // component: () => import('@/views/recommend/recommend.vue')
+          component: () => import('@/views/recommend/recommend.vue')
         },
         {
           path: 'music_hall',

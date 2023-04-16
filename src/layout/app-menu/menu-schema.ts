@@ -26,5 +26,30 @@ export const meuns:Menus[] = [
         icon: 'icon-music-diantai'
       }
     ]
+  },
+  {
+    name: '我的音乐',
+    menus: [
+      {
+        name: '我喜欢',
+        key: '',
+        icon: 'icon-music-tuijian'
+      },
+      {
+        name: '本地歌曲',
+        key: '',
+        icon: 'icon-music-yinle'
+      },
+      {
+        name: '下载歌曲',
+        key: '',
+        icon: 'icon-music-shipin'
+      },
+      {
+        name: '最近播放',
+        key: '',
+        icon: 'icon-music-diantai'
+      }
+    ]
   }
 ]
